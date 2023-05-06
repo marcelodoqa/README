@@ -6,7 +6,7 @@
  ### Sou Analista de testes com foco em me especializar em automações com Cypress 
 <br>
 
-[![Anos de Estudo](https://img.shields.io/badge/Anos%20de%20Estudo-1%2B-brightgreen?style=for-the-badge)](https://www.example.com)[![Certificados de Cursos](https://img.shields.io/badge/Certificados%20de%20Cursos-10%2B-brightgreen?style=for-the-badge)](https://www.example.com)
+[![Anos de Estudo](https://img.shields.io/badge/Anos%20de%20Estudo-2%2B-brightgreen?style=for-the-badge)](https://www.example.com)[![Certificados de Cursos](https://img.shields.io/badge/Certificados%20de%20Cursos-0%2B-brightgreen?style=for-the-badge)](https://www.example.com)
 
 [![Projetos Concluídos](https://img.shields.io/badge/Projetos%20Concluídos-0-red?style=for-the-badge)](https://www.example.com)[![Projetos em Andamento](https://img.shields.io/badge/Projetos%20em%20Andamento-1-yellow?style=for-the-badge)](https://www.example.com)
 
