@@ -4,10 +4,9 @@
  
  
  ### Sou Analista de testes com foco em me especializar em automações com Cypress 
-<br>
 
-![gifs-do-gatinho-digitando-2](https://user-images.githubusercontent.com/131615239/236690349-fefb3505-0e82-45fb-a092-3ce2ba00c4d7.gif)
-
+ ![gifs-do-gatinho-digitando-2](https://user-images.githubusercontent.com/131615239/236690349-fefb3505-0e82-45fb-a092-3ce2ba00c4d7.gif)
+ 
 <br>
 
 [![Anos de Estudo](https://img.shields.io/badge/Anos%20de%20Estudo-2%2B-brightgreen?style=for-the-badge)](https://www.example.com)[![Certificados de Cursos](https://img.shields.io/badge/Certificados%20de%20Cursos-10%2B-brightgreen?style=for-the-badge)](https://www.example.com)
@@ -24,7 +23,7 @@
 
 ### **Tecnologias e Ferramentas que utilizo no dia-a-dia** ###
 <br>
-
+ 
 ![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) [![Cypress.io](https://img.shields.io/badge/Cypress.io-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 
