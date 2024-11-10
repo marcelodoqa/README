@@ -3,7 +3,7 @@
  > LEIA-ME em desenvolvimento... 
  
  
- ### Sou Analista de testes com foco em me especializar em automações com Cypress 
+ ### Sou Analista de testes especialista em automações com Cypress.
 
  ![gifs-do-gatinho-digitando-2](https://user-images.githubusercontent.com/131615239/236690349-fefb3505-0e82-45fb-a092-3ce2ba00c4d7.gif)
  
